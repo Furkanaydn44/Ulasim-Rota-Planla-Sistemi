@@ -8,6 +8,14 @@ Uygulama, **Nesne Yönelimli Programlama (OOP)** prensiplerine ve **SOLID** kura
 
 Sistem, kullanıcıdan alınan koordinat verilerini, yolcu tipini ve ödeme yöntemini işleyerek en verimli ulaşım senaryosunu oluşturur. JSON tabanlı veri setleri üzerinden durak konumlarını ve tarife bilgilerini çeker, **Dijkstra** ve **Haversine** algoritmalarını kullanarak gerçekçi rota ve maliyet analizleri sunar.
 
+## Proje Katılımcıları
+<a href="https://github.com/numankhy28">
+  <img src="https://avatars.githubusercontent.com/u/219421415?v=4" width="128" height="128" alt="numankhy28 GitHub Profile" />
+</a>
+<a href="https://github.com/Furkanaydn44">
+  <img src="https://avatars.githubusercontent.com/u/174454978?v=4" width="128" height="128" alt="Furkanaydn44 GitHub Profile" />
+</a>
+
 ## ✨ Temel Özellikler
 
 * **Çok Modlu Ulaşım Desteği:**
